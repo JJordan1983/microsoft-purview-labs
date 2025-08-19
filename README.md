@@ -31,3 +31,12 @@ To build practical experience in Microsoft Purview, map configurations to **FedR
 ---
 
 ## 📂 Repository Structure
+purview-labs/
+│
+├── README.md # This file
+├── lab-01-compliance-admin.md # Step-by-step DLP policy lab
+├── lab-02-ediscovery.md # Placeholder
+├── lab-03-retention-labels.md # Placeholder
+├── lab-04-custom-sit.md # Placeholder
+├── lab-05-insider-risk.md # Placeholder
+└── screenshots/ # Screenshots for labs
