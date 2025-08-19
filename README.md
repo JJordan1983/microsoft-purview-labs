@@ -31,8 +31,8 @@ To build practical experience in Microsoft Purview, map configurations to **FedR
 ---
 
 ## 📂 Repository Structure
-purview-labs/
-- **README.md # This file**
+purview-labs
+- **README.md**
 - **lab-01-compliance-admin.md**
 - **Step-by-step DLP policy lab**
 - **lab-02-ediscovery.md # Placeholder**
